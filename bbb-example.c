@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "bbb-example.h"
 
-int main() {
-    printf("Merhaba BeagleBone Black! Welcome: %c\n", WELCOME);
+int main(void) {
+    printf("Hello Yocto Tutorial!\n");
     return 0;
 }
